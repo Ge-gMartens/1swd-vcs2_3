@@ -1,6 +1,9 @@
-chips
-cola
-bier
-water
+melk
+kip
 pindakaas
 pepernoten
+wcpapier
+cornflakes
+eieren
+kipfilet
+ovenbroodjes
